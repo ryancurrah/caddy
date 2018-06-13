@@ -50,7 +50,6 @@
         _ "github.com/xuqingfeng/caddy-rate-limit"
         _ "github.com/captncraig/caddy-realip"
         _ "github.com/freman/caddy-reauth"
-        _ "github.com/restic/caddy"
         _ "blitznote.com/src/caddy.upload"
         _ "github.com/hacdias/caddy-webdav"
         _ "github.com/hacdias/caddy-service"
